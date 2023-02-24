@@ -1,0 +1,137 @@
+* {background-color: #FF4B1D;}
+
+h1{color: #FFF7F5;
+    font-size: larger;
+    font-family: 'Mynerve', cursive;
+}
+p{color: #FFF7F5;
+    font-family: 'Montserrat', sans-serif;}
+
+div{color: #FFF7F5;
+    font-family: 'Montserrat', sans-serif;}
+
+h2{color: #FFF7F5;
+    font-size: larger;
+    font-family: 'Mynerve', cursive;
+}
+
+
+
+    #columna1 {
+    position:absolute;
+    top:0px;
+    left: 50px;;
+    width: 200;
+    margin-top:50px;
+    margin-bottom: 50;
+    
+    }
+    #columna2 {
+    margin-left:300px;
+    margin-right:20px;
+    margin-top: 50px;;
+    margin-bottom: 50px;
+    background-color:#FFAC1B;
+    }
+
+
+    #Fotoperfil {border-radius: 50% 50% 5px 50%}
+
+    h2{
+        padding-left: 35px;
+    }
+
+    p{
+        padding-left: 35px;
+    }
+
+    #accordionFlushExample{ padding-bottom: 20px};
+ 
+    .accordion{color: #252E2D;
+        border-color: #252E2D;
+        
+  }
+
+
+button{
+    padding-left: 350px
+    
+}
+
+h3{font-family: 'Montserrat', sans-serif; }
+
+h4{color: #FFF7F5;
+    padding-top: 25px;
+    padding-left: 15px;
+    padding-bottom: 20px;
+    font-family: 'Montserrat', sans-serif; }
+
+
+       #linkbutton{
+        padding-left: 2px;
+        color: white;
+      }
+
+form{color: #FFF7F5;
+    background-color: #252E2D;
+        font-family: 'Montserrat', sans-serif;}
+label{color: #FFF7F5;
+            background-color: #252E2D;
+                font-family: 'Montserrat', sans-serif;}
+
+::placeholder{color: #FFF7F5;
+                    background-color: #252E2D;
+                        font-family: 'Montserrat', sans-serif;}
+
+#carouselExampleIndicators{
+    padding-left: 350px;
+    padding-right: 350px;
+    padding-top: 25px;
+
+ }
+ 
+ #carouselExampleControls{
+    padding-left: 350px;
+    padding-right: 350px;
+    padding-top: 25px;
+
+ }
+
+
+
+#imagenhojadoble { 
+    padding-left: 350px;
+    padding-right: 350px;
+    padding-top: 25px;
+     }
+
+h4{
+    text-decoration-line: underline;
+
+   
+}
+
+a {
+    outline: none;
+    text-decoration: none;
+    padding: 2px 1px 0;
+  }
+  
+a:link {
+    color: #fdfdfd;
+    outline: none;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: #ffffff;
+    outline: none;
+    text-decoration: none;
+  }
+  
+  a:focus {
+    color: #fdfdfd;
+    outline: none;
+    text-decoration: none;
+    background: none;
+  }
