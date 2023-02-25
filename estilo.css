@@ -1,4 +1,6 @@
-* {background-color: #FF4B1D;}
+* {background-color: #FF4B1D;
+
+}
 
 h1{color: #FFF7F5;
     font-size: larger;
@@ -84,25 +86,27 @@ label{color: #FFF7F5;
                         font-family: 'Montserrat', sans-serif;}
 
 #carouselExampleIndicators{
-    padding-left: 350px;
-    padding-right: 350px;
-    padding-top: 25px;
-
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-top: 30px;
+    padding-bottom: 20px;
  }
  
  #carouselExampleControls{
-    padding-left: 350px;
-    padding-right: 350px;
-    padding-top: 25px;
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-top: 30px;
+    padding-bottom: 20px;
 
  }
 
 
 
 #imagenhojadoble { 
-    padding-left: 350px;
-    padding-right: 350px;
-    padding-top: 25px;
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-top: 30px;
+    padding-bottom: 20px;
      }
 
 h4{
@@ -135,3 +139,18 @@ a:link {
     text-decoration: none;
     background: none;
   }
+
+*{
+    box-sizing: border-box;
+}
+
+.menu {
+    width: 25%;
+    float: left;
+  }
+  .main {
+    width: 75%;
+    float: left;
+  } 
+
+ 
