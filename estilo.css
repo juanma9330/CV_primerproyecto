@@ -20,6 +20,7 @@ h2{color: #FFF7F5;
 
 
     #columna1 {
+    align-self: center;
     position:absolute;
     top:0px;
     left: 50px;;
@@ -29,11 +30,12 @@ h2{color: #FFF7F5;
     
     }
     #columna2 {
+        align-items: center;
     margin-left:300px;
     margin-right:20px;
     margin-top: 50px;;
     margin-bottom: 50px;
-    background-color:#FFAC1B;
+    background-color:#ffa200;
     }
 
 
