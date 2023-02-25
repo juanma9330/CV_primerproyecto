@@ -1,13 +1,15 @@
-@media only screen and (max-width: 900px) {
+@media only screen and (max-width: 800px) {
     * {
       background-color: rgb(0, 0, 0);
     }
-  }
+
+
+  
 
   *{
     box-sizing: border-box;
 }
-
+#Fotoperfil {border-radius: 50% 50% 0% 0%}
 p{
     color: blueviolet;
     padding-right: 5%;
@@ -15,7 +17,7 @@ p{
 
 #imagenhojadoble{
     
-    width: 75%;
+    width: 50%;
     height: 75%;
 }
 
@@ -28,6 +30,17 @@ p{
     width: 90%;
     float: left;
   }
+
+  form{color: #000000;
+    background-color: #f8f5f5;
+        font-family: 'Montserrat', sans-serif;}
+label{color: #000000;
+            background-color: #f8f5f5;
+                font-family: 'Montserrat', sans-serif;}
+
+::placeholder{color: #000000;
+                    background-color: #f8f5f5;
+                        font-family: 'Montserrat', sans-serif;}
 
   /* X-Small devices (portrait phones, less than 576px)
   // No media query for `xs` since this is the default in Bootstrap */
@@ -55,4 +68,5 @@ p{
   /* XX-Large devices (larger desktops, 1400px and up)*/
   @media (max-width: 1400px) { 
 
-   }
+   } 
+}

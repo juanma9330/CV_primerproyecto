@@ -25,7 +25,7 @@ h2{color: #FFF7F5;
     left: 50px;;
     width: 200;
     margin-top:50px;
-    margin-bottom: 50;
+    margin-bottom: 50px;
     
     }
     #columna2 {
@@ -74,25 +74,45 @@ h4{color: #FFF7F5;
         color: white;
       }
 
-form{color: #FFF7F5;
-    background-color: #252E2D;
+form{color: #ffffff;
+    background-color: #000000;
         font-family: 'Montserrat', sans-serif;}
-label{color: #FFF7F5;
-            background-color: #252E2D;
+label{color: #ffffff;
+            background-color: #000000;
                 font-family: 'Montserrat', sans-serif;}
 
-::placeholder{color: #FFF7F5;
-                    background-color: #252E2D;
+::placeholder{color: #ffffff;
+                    background-color: #000000;
                         font-family: 'Montserrat', sans-serif;}
 
+
+                        
 #carouselExampleIndicators{
+    width: 50%; height: 50%;
     padding-left: 35px;
     padding-right: 35px;
     padding-top: 30px;
     padding-bottom: 20px;
  }
- 
+ #carouselExampleIndicators {
+    display: block;
+    margin: auto;
+  }
+
+#carouselExampleControls{
+      display: block;
+      margin: auto;
+    }
+    
+    
+img{
+        display: block;
+        margin: auto;
+      }
+
+
  #carouselExampleControls{
+    width: 50%; height: 50%;
     padding-left: 35px;
     padding-right: 35px;
     padding-top: 30px;
