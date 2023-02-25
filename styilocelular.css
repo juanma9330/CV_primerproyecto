@@ -40,7 +40,30 @@ p{
         width: 50%;
         height: 75%;
     }
+    #carouselExampleIndicators{
+        width: 75%; height: 75%;
+        padding-left: 15px;
+        padding-right: 15px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+     } 
+    #carouselExampleControls{
+        width: 75%; height: 75%;
+        padding-left: 15px;
+        padding-right: 15px;
+        padding-top: 10px;
+        padding-bottom: 10px;
     
+     }
+
+     #imagenhojadoble { 
+        width: 75%; height: 75%;
+        padding-left: 15px;
+        padding-right: 15px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+         }
+
   form{color: #000000;
     background-color: #f8f5f5;
         font-family: 'Montserrat', sans-serif;}
